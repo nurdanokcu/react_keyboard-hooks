@@ -17,6 +17,11 @@ export const App: React.FC = () => {
 
   return (
     <div className="App">
+      <input
+        type="text"
+
+      />
+
       <p
         className="App__message"
       >
