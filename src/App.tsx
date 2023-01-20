@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 
-
 export const App: React.FC = () => {
   const [pressedKey, setPressedKey] = useState('');
 
@@ -20,7 +19,6 @@ export const App: React.FC = () => {
     <div className="App">
       <input
         type="text"
-
       />
 
       <p
